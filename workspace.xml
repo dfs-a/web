@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="520e05ec-30c9-44e8-abed-a22e92880354" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fLlG5zk42ck7GbyzpHcqtZyppH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reptileproject" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="520e05ec-30c9-44e8-abed-a22e92880354" name="Default Changelist" comment="" />
+      <created>1596005154768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596005154768</updated>
+      <workItem from="1596005157517" duration="56000" />
+      <workItem from="1596005232623" duration="1078000" />
+      <workItem from="1596006327104" duration="3647000" />
+      <workItem from="1596010093724" duration="3749000" />
+      <workItem from="1596078832980" duration="1472000" />
+      <workItem from="1596114659919" duration="278000" />
+      <workItem from="1596162594543" duration="1858000" />
+      <workItem from="1596356299203" duration="6785000" />
+      <workItem from="1596364227005" duration="4831000" />
+      <workItem from="1596411488696" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="79" key="#Deployment" timestamp="1596363728344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="79" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1596363728344" />
+    <state x="551" y="85" key="#Options" timestamp="1596372010814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="85" key="#Options/0.0.1536.824@0.0.1536.824" timestamp="1596372010814" />
+    <state x="482" y="66" key="#SSH_Configurations" timestamp="1596006795791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="482" y="66" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1596006795791" />
+    <state x="377" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596012599100">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596012599100" />
+    <state x="819" y="159" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596372116051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="819" y="159" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596372116051" />
+    <state x="687" y="174" key="FileChooserDialogImpl" timestamp="1596411502454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="687" y="174" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596411502454" />
+    <state width="884" height="92" key="GridCell.Tab.0.bottom" timestamp="1596376847244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="884" height="92" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596376847244" />
+    <state width="884" height="92" key="GridCell.Tab.0.center" timestamp="1596376847244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="884" height="92" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596376847244" />
+    <state width="884" height="92" key="GridCell.Tab.0.left" timestamp="1596376847243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="884" height="92" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596376847243" />
+    <state width="884" height="92" key="GridCell.Tab.0.right" timestamp="1596376847244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="884" height="92" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596376847244" />
+    <state x="407" y="65" key="SettingsEditor" timestamp="1596363742532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="65" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596363742532" />
+    <state x="698" y="286" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1596010238797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="698" y="286" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1536.824@0.0.1536.824" timestamp="1596010238797" />
+    <state x="695" y="224" key="ftp.server.browser" timestamp="1596010350623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="695" y="224" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1596010350623" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyproject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1596364389839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
